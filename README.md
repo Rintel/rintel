@@ -1,6 +1,6 @@
 # Cedric Laier
 
-> **Engineering Manager | Technical Lead & Fullstack Engineer **
+> **Engineering Manager | Technical Lead & Fullstack Engineer**
 
 ---
 

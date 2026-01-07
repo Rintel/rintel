@@ -1,14 +1,13 @@
 # Cedric Laier
 
-> **Engineering Manager & Technical Lead**
-> *Bridging business strategy with sustainable technical execution.*
+> **Engineering Manager | Technical Lead & Fullstack Engineer **
 
 ---
 
 ### Quick Look
 
-* **Core Stack:** The JavaScript Ecosystem (Web & Mobile), React, TypeScript, Node.js
-* **Focus:** Web Technologies, Sustainable Engineering, Offline-First Architecture, Zero-Downtime Reliability
+* **Core Stack:** The JavaScript Ecosystem (Web & Mobile), TypeScript, React, React Native, Node.js
+* **Focus:** Web Technologies & Sustainable Engineering to build tools that actually make life better for people
 * **Location:** Berlin, Germany
 * **Connect:** [LinkedIn](https://www.linkedin.com/in/cedric-laier)
 

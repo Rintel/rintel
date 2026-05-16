@@ -2,22 +2,23 @@
 
 ### Engineering Manager | Technical Lead & Fullstack Engineer
 
-Prioritizing user needs, team empowerment, and sustainable engineering. 🌱
+Prioritizing user needs, team empowerment, and sustainable engineering.
 
 ---
 
 ### Quick Look
 
-With over a decade of experience in the Web and Mobile ecosystem, I bridge the gap between technical strategy, product execution, and team growth. 
+With over a decade of hands-on experience in the Web and Mobile ecosystem, I bridge the gap between technical complexity, business strategy, and high-performing engineering organizations.
 
-* **As a Leader:** I focus on empowering engineers, fostering psychological safety, and building high-performing, low-ego teams.
-* **As an Engineer:** I view frameworks and languages as tools to solve real-world human problems, not trends to chase. I advocate for sustainable architecture, clean code, and pragmatic decision-making.
+* **Business-Driven, People-Focused:** My highest priority is driving measurable business outcomes. I recognize that the most effective way to hit commercial milestones sustainably is by building low-ego, highly autonomous teams backed by psychological safety and clear direction.
+* **Empathy-Led Leadership:** As an introverted leader, my strength lies in high empathy, deep listening, and active mentorship. I focus on unlocking the full potential of every engineer, aligning their personal growth with organizational goals to drive retention and engineering velocity.
+* **Pragmatic Technical Strategy:** I leverage my deep technical expertise to serve as a guide and architect. I view frameworks and languages as tools to solve real-world customer problems, ensuring we balance rapid feature delivery with sustainable, long-term system architecture.
 
-* **Connect:** [LinkedIn](https://www.linkedin.com/in/cedric-laier)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/cedric-laier)
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 I specialize in modern (but also legacy) web technologies and full-stack development, ensuring we select the most sustainable and effective solution for the challenge at hand.
 

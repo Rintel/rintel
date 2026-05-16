@@ -1,23 +1,25 @@
 # Cedric Laier
 
-> **Engineering Manager | Technical Lead & Fullstack Engineer**
+### Engineering Manager | Technical Lead & Fullstack Engineer
+
+Prioritizing user needs, team empowerment, and sustainable engineering. 🌱
 
 ---
 
 ### Quick Look
 
-* **Core Stack:** The JavaScript Ecosystem (Web & Mobile), TypeScript, React, React Native, Node.js
-* **Focus:** Web Technologies & Sustainable Engineering to build tools that actually make life better for people
-* **Location:** Berlin, Germany
+With over a decade of experience in the Web and Mobile ecosystem, I bridge the gap between technical strategy, product execution, and team growth. 
+
+* **As a Leader:** I focus on empowering engineers, fostering psychological safety, and building high-performing, low-ego teams.
+* **As an Engineer:** I view frameworks and languages as tools to solve real-world human problems, not trends to chase. I advocate for sustainable architecture, clean code, and pragmatic decision-making.
+
 * **Connect:** [LinkedIn](https://www.linkedin.com/in/cedric-laier)
 
 ---
 
 ### 🛠 Tech Stack
 
-I specialize in modern web technologies and full-stack development. With over 10 years of experience, I view every framework and language as a specific tool in an ever-growing toolbox. 
-
-My goal is to continuously learn and adapt, ensuring I can always select the most sustainable and effective solution for the challenge at hand. To me, technology is a means to build great products, not just a trend to follow.
+I specialize in modern (but also legacy) web technologies and full-stack development, ensuring we select the most sustainable and effective solution for the challenge at hand.
 
 **Frontend & Mobile**
 ![JavaScript ](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -33,11 +35,3 @@ My goal is to continuously learn and adapt, ensuring I can always select the mos
 ![Docker ](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL ](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Terraform ](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
----
-
-### Stats
-
-![Cedric's GitHub Stats](https://github.com/Rintel/github-stats/blob/refs/heads/master/generated/overview.svg)
-
----

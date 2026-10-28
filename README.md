@@ -1,10 +1,10 @@
 # Cedric Laier
 
-I connect product direction, engineering leadership, and hands-on software development.
+Connecting product direction, engineering leadership, and hands-on software development.
 
 For more than a decade, I’ve worked across the software lifecycle: understanding what people need, shaping a direction, making technical choices, and building systems that teams can keep evolving. My background spans web and mobile development, cloud infrastructure, and DevOps. Web is where I’m deepest, and I still enjoy working close to the code.
 
-I spent eight years at Yara International, including around four years leading 15+ engineers across three teams. We built digital products including Atfarm, YaraPlus, YaraConnect, YaraIrix, and Yara CoffeeClub, spanning crop nutrition software and commercial tools. I’m also a patent holder.
+I spent eight years at Yara International, including around four years leading 15+ engineers across three teams. We built digital products including Atfarm, YaraPlus, YaraConnect, YaraIrix, and Yara CoffeeClub, spanning crop nutrition software and commercial tools. I’m also a patent holder. Currently, I’m continuing my work in plant nutrition while flying a little under the radar.
 
 ## How I work
 

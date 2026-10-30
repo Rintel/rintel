@@ -1,18 +1,27 @@
-# Cedric Laier
 
-Connecting product direction, engineering leadership, and hands-on software development.
+Bringing together product context, engineering leadership and hands-on software development.
 
-For more than a decade, I’ve worked across the software lifecycle: understanding what people need, shaping a direction, making technical choices, and building systems that teams can keep evolving. My background spans web and mobile development, cloud infrastructure, and DevOps. Web is where I’m deepest, and I still enjoy working close to the code.
+I have worked across the software lifecycle for more than a decade, understanding what people need, shaping direction, making technical choices 
+and building systems that teams can evolve further. My background spans web and mobile development, cloud infrastructure, and DevOps. I have 
+the deepest expertise in web development and still enjoy working closely with the code.
 
-I spent eight years at Yara International, including around four years leading 15+ engineers across three teams. We built digital products including Atfarm, YaraPlus, YaraConnect, YaraIrix, and Yara CoffeeClub, spanning crop nutrition software and commercial tools. I’m also a patent holder. Currently, I’m continuing my work in plant nutrition while flying a little under the radar.
+I spent eight years at Yara International, including around four years leading a team of over 15 engineers. Together, we developed digital 
+products such as Atfarm, YaraPlus, YaraConnect, YaraIrix and Yara CoffeeClub, which include crop nutrition software and commercial tools. I am 
+also a patent holder. Currently, I am continuing my work in plant nutrition, operating somewhat under the radar.
 
-## How I work
+## How I work:
 
-I’m an introvert, so I tend to listen before reaching for an answer. I want people to feel comfortable saying “I don’t know”, pointing out what’s broken, and questioning a decision, including mine. Good leadership means giving people context and direction, then trusting them with the work.
+As an introvert, I tend to listen before offering an answer. I encourage people to feel comfortable saying 'I don't know', pointing out what's 
+broken and questioning decisions, including my own. Good leadership means providing people with context and direction, and then trusting them 
+to do the work.
 
-I like moving between the product and the implementation. That helps me keep technical decisions grounded in what users need and what teams will have to maintain. I treat frameworks and languages as tools, not destinations, and I’m comfortable working across modern and legacy systems. Shipping matters. So does making the next change easier.
+I enjoy moving between the product and its implementation. This helps me ensure that technical decisions are grounded in user needs and 
+maintainability. I treat frameworks and languages as tools, not destinations, and I’m comfortable working across modern and legacy systems. 
+Shipping matters. So does making the next change easier.
 
-Coding agents have expanded how much of the work I can take on directly, from exploring an idea to implementing and refining a solution. They’re most useful when paired with sound engineering judgment, product context, and a clear sense of what should be built.
+Coding agents have increased the scope of my work, essentially acting as a one-man engineering organisation, from exploring an idea to 
+implementing and refining a solution. As always a tool is most useful when paired with sound engineering judgement, product context and a clear 
+sense of what should be built.
 
 ## Toolbox
 
